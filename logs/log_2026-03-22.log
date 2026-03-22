@@ -1,0 +1,16 @@
+2026-03-22 22:02:49,614 - INFO - CONFIG INITIALIZED
+2026-03-22 22:02:49,614 - INFO - SERPER TOOL ALL SET
+2026-03-22 22:02:49,658 - INFO - TAVILY TOOL ALL SET
+2026-03-22 22:02:51,634 - INFO - AGENT SUCCESSFULLY CREATED
+2026-03-22 22:04:10,891 - INFO - TravelPlanner initialized
+2026-03-22 22:04:11,411 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-22 22:04:15,394 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-22 22:04:15,396 - ERROR - Planner error: 'list' object has no attribute 'appened'
+2026-03-22 22:05:46,065 - INFO - CONFIG INITIALIZED
+2026-03-22 22:05:46,065 - INFO - SERPER TOOL ALL SET
+2026-03-22 22:05:46,103 - INFO - TAVILY TOOL ALL SET
+2026-03-22 22:05:47,367 - INFO - AGENT SUCCESSFULLY CREATED
+2026-03-22 22:06:01,270 - INFO - TravelPlanner initialized
+2026-03-22 22:06:01,791 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-22 22:06:04,957 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-22 22:06:04,961 - INFO - RESPONSE GENERATED
